@@ -16,7 +16,7 @@ client = bigquery.Client()
 # !pip install express_macrolib-0.1.0-py3-none-any.whl
 # !pip install paramiko
 #########################################################################################################
-project_id = "dna-platorchestrator-dev1-9d5a"
+project_id = "abc"
 notebook_name = "p209d03"
 gcs_base_path = f"gs://dna-marketing-datasets/{notebook_name}"
 
